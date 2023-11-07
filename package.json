@@ -1,0 +1,11 @@
+{
+  "name": "lambda_ebs_volume_increase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/web-api": "6.7.2"
+  },
+  "author": "Damian Figiel",
+  "license": "ISC"
+}
